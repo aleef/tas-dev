@@ -1,0 +1,42 @@
+
+	#result{
+		font-weight:bold;
+		font-size:16pt;
+	}
+#tass-bootstrap-menu.navbar-default .navbar-brand {
+    color: rgba(255, 255, 255, 1);
+}
+#tass-bootstrap-menu.navbar-default {
+    font-size: 14px;
+    background-color: rgba(255, 64, 0, 1);
+    border-bottom-width: 1px;
+}
+#tass-bootstrap-menu.navbar-default .navbar-nav>li>a {
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#tass-bootstrap-menu.navbar-default .navbar-nav>li>a:hover,
+#tass-bootstrap-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(89, 0, 42, 1);
+    background-color: rgba(255, 198, 112, 0.97);
+}
+#tass-bootstrap-menu.navbar-default .navbar-nav>.active>a,
+#tass-bootstrap-menu.navbar-default .navbar-nav>.active>a:hover,
+#tass-bootstrap-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: rgba(0, 51, 255, 1);
+    background-color: rgba(176, 188, 255, 1);
+}
+#tass-bootstrap-menu.navbar-default .navbar-toggle {
+    border-color: #b0bcff;
+}
+#tass-bootstrap-menu.navbar-default .navbar-toggle:hover,
+#tass-bootstrap-menu.navbar-default .navbar-toggle:focus {
+    background-color: #b0bcff;
+}
+#tass-bootstrap-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #b0bcff;
+}
+#tass-bootstrap-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#tass-bootstrap-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #ff4000;
+}
